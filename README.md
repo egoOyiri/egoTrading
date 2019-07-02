@@ -23,6 +23,9 @@ This repository lists all Open Source Trading Platforms
 [RFQ - Request For Quote](https://www.cmegroup.com/education/request-for-quote.html)
 
 
+[Crypto Exchanges](https://hummingbot.io/blog/2019-04-crypto-exchange-types/)
+
+
 ## Stock Valuation
 
 https://iknowfirst.com/top-3-stock-valuation-methods-plus-algorithmic-valuation-tool
