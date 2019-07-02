@@ -20,6 +20,8 @@ This repository lists all Open Source Trading Platforms
 
 [CLOB - Central Limit Order Book](https://en.wikipedia.org/wiki/Central_limit_order_book)
 
+![image](images/CLOB-exchange.png)
+
 [RFQ - Request For Quote](https://www.cmegroup.com/education/request-for-quote.html)
 
 
