@@ -16,7 +16,7 @@ This repository lists all Open Source Trading Platforms
 
 --------------
 
-## Trading Method
+## Trading Methods
 
 [CLOB - Central Limit Order Book](https://en.wikipedia.org/wiki/Central_limit_order_book)
 
