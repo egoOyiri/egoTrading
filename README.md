@@ -16,6 +16,13 @@ This repository lists all Open Source Trading Platforms
 
 --------------
 
+## Trading Method
+
+[CLOB - Central Limit Order Book](https://en.wikipedia.org/wiki/Central_limit_order_book)
+
+[RFQ - Request For Quote](https://www.cmegroup.com/education/request-for-quote.html)
+
+
 ## Stock Valuation
 
 https://iknowfirst.com/top-3-stock-valuation-methods-plus-algorithmic-valuation-tool
