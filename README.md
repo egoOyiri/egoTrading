@@ -13,6 +13,8 @@ This repository lists all Open Source Trading Platforms
 
 [Algorithmic Trading with QuantConnect](https://www.youtube.com/watch?v=Q_NQvKsPHtk)
 
+[fmpcloud.io](https://rapidapi.com/FmpCloudAPI/api/fmpcloud)
+
 
 --------------
 
